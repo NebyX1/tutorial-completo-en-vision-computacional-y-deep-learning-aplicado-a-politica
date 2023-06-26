@@ -18,7 +18,7 @@ us_average.py y uy_average.py: estos scripts crean un gráfico de "torta" con la
 ### Casos de Uso
 El tutorial ha sido diseñado para ilustrar dos problemas de investigación hipotéticos.
 
-En el primer caso, una firma de consultores en análisis político internacional, busca hacer un estudio para un Think Tank financiado por el partido Republicano llamado "Conservatives Freedom Group" que quiere un modelo de análisis de visión computacional, que les permita analizar de forma masiva, cientos de horas sacadas de canales de TV de todo EEUU para saber si le dan más minutos en pantalla a Trump o a Obama.
+En el primer caso, una firma de consultores en análisis político internacional, busca hacer un estudio para un Think Tank financiado por el partido X llamado "Conservatives Freedom Group" que quiere un modelo de análisis de visión computacional, que les permita analizar de forma masiva, cientos de horas sacadas de canales de TV de todo EEUU para saber si le dan más minutos en pantalla a Trump o a Obama.
 
 En el segundo caso, la misma firma, trabajará, para otra firma Europea que los subcontrata, y la misma está relacionada a una fundación alemana llamada "Die Rheinkonservativen", y que busca analizar en Uruguay, las emociones de los políticos de primera línea de ese país en sus discursos recientes, para lograr obtener un modelado mental de los mismos, para faiclitar la creación de una estrategia de negociación efectiva, ante intereses europeos en Uruguay que pudieran surgir.
 
